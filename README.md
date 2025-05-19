@@ -1,2 +1,3 @@
 # Background-Task-Notification
-WIP BG Task
+On a new installation of the Ethos Suite you may be presented with the error enable background task.
+
